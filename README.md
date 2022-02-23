@@ -48,15 +48,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
+BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE<br>
 
-## Deploy
-You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/fyFKnde_Jz8)**</i>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adwaithshi/EvaMaria)</br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
